@@ -6,7 +6,8 @@ Designed the system to handle diverse medical queries efficiently, offering reli
 - Python
 - LangChain
 - Streamlit
-- Meta Llama2
+- Gemini AI
+- LLM
 
 
 
