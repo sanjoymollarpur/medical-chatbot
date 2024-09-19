@@ -1,8 +1,6 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
-pinecone-client
-langchain==0.0.225
-flask
-pypdf
-python-dotenv
--e .
+langchain==0.0.284
+python-dotenv==1.0.0
+streamlit==1.22.0
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+protobuf~=3.19.0
